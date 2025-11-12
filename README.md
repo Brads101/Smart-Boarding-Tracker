@@ -1,6 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The Smart Boarding Tracker is a web-based management system developed to enhance the efficiency and reliability of handling student boarding operations within dormitories or boarding facilities. 
 
 Currently, two official plugins are available:
 
